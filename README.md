@@ -3,14 +3,11 @@
 ## Project Overview
 This project is an analysis of New York Citi Bike data, using data visualization tools to explore the viability of a bike-sharing business in Des Moines.
 
-## Resources
-- Data Source: [Citi Bike Data](https://www.citibikenyc.com/system-data), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
-- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
 
 ## Results
 
 ### Deployed Tableau Analysis
-[Link to dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysis_16040907256420/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Link to dashboard](https://public.tableau.com/app/profile/ashton.walker/viz/NYCCitiBikeAnalysis_16747760217460/NYCCitiBikeDB1)
 
 ### New York Citi Bike data visualizations for August 2019
 
